@@ -7,3 +7,21 @@ body {
     box-shadow: 5px 5px 10px gray;
     border-radius: 10px;
 }
+#transaction-area {
+    display: none;
+}
+.deposit {
+    background-color: slateblue;
+}
+.withdraw {
+    background-color: lightsalmon;
+}
+.balance {
+    background-color: orange;
+}
+.status {
+    padding: 20px;
+    margin: 0 20px;
+    color: #fff;
+    border-radius: 10px;
+}
